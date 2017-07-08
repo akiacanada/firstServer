@@ -1,0 +1,2 @@
+# firstServer
+server creation practice
